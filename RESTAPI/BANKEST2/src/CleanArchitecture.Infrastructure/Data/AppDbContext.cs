@@ -4,23 +4,23 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BANKEST2.Infrastructure.Data
 {
-    public class BankDbContext : DbContext
+    public class AppDbContext : DbContext
     {
 
-        public BankDbContext(DbContextOptions<BankDbContext> options  )
+        public AppDbContext(DbContextOptions<AppDbContext> options  )
             : base(options)
         {
 
         }
 
-        public DbSet<Users> Users { get; set; }
+        public DbSet<Person> Persons { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.ApplyAllConfigurationsFromCurrentAssembly();
-            modelBuilder.Entity<Users>().ToTable("Users");
+            modelBuilder.Entity<Person>().ToTable("Persons");
         }
 
 

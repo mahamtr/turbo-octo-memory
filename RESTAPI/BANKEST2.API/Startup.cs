@@ -1,5 +1,5 @@
 using BANKEST2.Core.Interfaces;
-using BANKEST2.Core.Services.Auth;
+using BANKEST2.Core.Services;
 using BANKEST2.Infrastructure.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -25,12 +25,13 @@ namespace BANKEST2.Api
         {
             services.AddSwaggerGen(c => { c.SwaggerDoc("v1", new OpenApiInfo {Title = "My API", Version = "v1"}); });
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
-            services.AddScoped(typeof(IAuthService), typeof(AuthService));
+            services.AddScoped(typeof(IPersonService), typeof(PersonService));
+            services.AddScoped(typeof(IPersonVerifier), typeof(PersonVerifier));
 
             services.AddControllers();
 
-            services.AddDbContext<BankDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("BankDbContext")));
+            services.AddDbContext<AppDbContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("AppDbContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

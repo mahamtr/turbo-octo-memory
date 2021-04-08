@@ -25,331 +25,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b39ffd59-9f6e-4476-86c6-2d5a2449822b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2.API/BANKEST2.Api.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2.API/Controllers/AuthenticationController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2.API/Controllers/WeatherForecastController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2.API/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2.API/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2.API/Startup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2.API/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2.API/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/.bettercodehub.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/.github/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/.github/FUNDING.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/.github/workflows/dotnetcore.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/.hound.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/.sonarcloud.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/CleanArchitecture.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/LICENSE/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/appveyor.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/azure-pipelines.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/nuget.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/renovate.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Core/BANKEST2.Core.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Core/Entities/UserRequestInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Core/Entities/Users.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Core/Interfaces/IAuthService.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Core/Interfaces/IRepository.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Core/Services/Auth/AuthService.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Infrastructure/BANKEST2.Infrastructure.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Infrastructure/Data/BankDbContext.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Infrastructure/Data/Repository.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.SharedKernel/BaseDomainEvent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.SharedKernel/BaseEntity.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.SharedKernel/CleanArchitecture.SharedKernel.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.SharedKernel/IgnoreMemberAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.SharedKernel/Interfaces/IDomainEventDispatcher.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.SharedKernel/Interfaces/IHandle.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.SharedKernel/Interfaces/IRepository.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.SharedKernel/ValueObject.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Api/BaseApiController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Api/MetaController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Api/ToDoItemsController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/ApiModels/ToDoItemDTO.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/CleanArchitecture.Web.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Controllers/HomeController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Controllers/ToDoController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Endpoints/ToDoItems/Create.NewToDoItemRequest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Endpoints/ToDoItems/Create.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Endpoints/ToDoItems/Delete.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Endpoints/ToDoItems/GetById.ToDoItemResponse.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Endpoints/ToDoItems/GetById.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Endpoints/ToDoItems/List.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Endpoints/ToDoItems/Update.UpdateToDoItemRequest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Endpoints/ToDoItems/Update.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Filters/ValidateModelAttribute.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Pages/ToDoRazorPage/Index.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Pages/ToDoRazorPage/Index.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Pages/ToDoRazorPage/Populate.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Pages/ToDoRazorPage/Populate.cshtml.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Pages/_ViewImports.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Pages/_ViewStart.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/SeedData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Startup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Views/Home/Index.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Views/Shared/Error.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Views/Shared/_Layout.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Views/ToDo/Index.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Views/_ViewImports.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/Views/_ViewStart.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/bundleconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/database.sqlite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/libman.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/_references.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/css/site.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/images/banner1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/images/banner2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/images/banner3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/images/banner4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/js/site.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/js/site.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/bootstrap/dist/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/additional-methods.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/jquery.validate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ar.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_az.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_az.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_az.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_bg.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_bg.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_bn_BD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_bn_BD.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_bn_BD.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ca.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ca.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_cs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_cs.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_da.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_da.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_de.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_de.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_el.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_el.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_el.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_es.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_es.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_es_AR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_es_AR.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_es_AR.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_es_PE.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_es_PE.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_es_PE.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_et.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_et.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_et.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_eu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_eu.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_eu.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_fa.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_fa.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_fi.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_fi.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_fr.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_fr.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ge.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ge.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ge.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_gl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_gl.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_gl.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_he.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_he.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_hr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_hr.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_hr.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_hu.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_hu.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_hy_AM.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_hy_AM.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_hy_AM.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_id.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_id.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_id.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_is.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_is.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_is.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_it.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_it.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ja.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ja.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ka.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ka.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ka.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_kk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_kk.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_kk.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ko.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ko.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_lt.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_lt.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_lv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_lv.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_lv.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_mk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_mk.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_mk.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_my.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_my.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_my.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_nl.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_nl.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_no.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_no.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_no.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_pl.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_pl.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_pt_BR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_pt_BR.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_pt_BR.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_pt_PT.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_pt_PT.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_pt_PT.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ro.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ro.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ru.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ru.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sd.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_si.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_si.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_si.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sk.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sk.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sl.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sl.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sr.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sr.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sr_lat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sr_lat.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sr_lat.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sv.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_sv.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_th.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_th.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_tj.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_tj.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_tj.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_tr.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_tr.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_uk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_uk.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_uk.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ur.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ur.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_ur.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_vi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_vi.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_vi.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_zh.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_zh.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_zh.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_zh_TW.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_zh_TW.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/messages_zh_TW.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_de.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_de.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_es_CL.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_es_CL.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_es_CL.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_fi.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_fi.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_nl.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_nl.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_pt.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery-validation/dist/localization/methods_pt.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery/dist/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery/dist/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery/dist/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery/dist/jquery.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery/dist/jquery.slim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery/dist/jquery.slim.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/src/CleanArchitecture.Web/wwwroot/lib/jquery/dist/jquery.slim.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.FunctionalTests/Api/ApiToDoItemsControllerList.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.FunctionalTests/Api/MetaControllerInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.FunctionalTests/CleanArchitecture.FunctionalTests.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.FunctionalTests/CustomWebApplicationFactory.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.FunctionalTests/HomeControllerIndex.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.IntegrationTests/CleanArchitecture.IntegrationTests.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.IntegrationTests/Data/BaseEfRepoTestFixture.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.IntegrationTests/Data/EfRepositoryAdd.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.IntegrationTests/Data/EfRepositoryDelete.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.IntegrationTests/Data/EfRepositoryUpdate.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.UnitTests/CleanArchitecture.UnitTests.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.UnitTests/Core/DomainEvents/DomainEventDispatcherShould.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.UnitTests/Core/Entities/ToDoItemMarkComplete.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.UnitTests/Core/Handlers/ItemCompletedEmailNotificationHandlerHandle.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.UnitTests/NoOpDomainEventDispatcher.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.UnitTests/ToDoItemBuilder.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/BANKEST2/tests/CleanArchitecture.UnitTests/xunit.runner.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/JWTAuthentication/Controllers/WeatherForecastController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/JWTAuthentication/JWTAuthentication.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/JWTAuthentication/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/JWTAuthentication/Properties/launchSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/JWTAuthentication/Startup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/JWTAuthentication/WeatherForecast.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/JWTAuthentication/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BANKEST2/JWTAuthentication/appsettings.json" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Entities/Person.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Services/IPersonService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Services/IPersonVerifier.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Services/PersonService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Services/PersonVerifier.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests.Unit/PersonVerifierTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RESTAPI/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RESTAPI/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RESTAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RESTAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BANKEST2.API/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BANKEST2.API/Controllers/PersonController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BANKEST2.API/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BANKEST2.API/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BANKEST2.API/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/BANKEST2.API/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Core.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Entities/UserRequestInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Entities/Users.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Interfaces/IAuthService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Services/Auth/AuthService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Infrastructure/Data/BankDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Infrastructure/Data/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Infrastructure/Data/Repository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Infrastructure/Data/Repository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegrationTesting/IntegrationTesting.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Unit/Tests.Unit.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegrationTesting/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Integration/BaseClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RESTAPI.sln" beforeDir="false" afterPath="$PROJECT_DIR$/RESTAPI.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Integration/PersonControllerIntegrationTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTesting/UnitTesting.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tests.Integration/Tests.Integration.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,27 +57,54 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5723D2C3-5851-4D78-89A9-838781296FB1/8/ServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/377B61B6-13EA-444F-826F-377D9474FFCA/c4/01cb376f/AsyncTestSyncContext.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/IntegrationTesting/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/UnitTesting/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2.API/appsettings.json" />
+        <option value="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Entities/Pizza.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Interfaces/IAuthService.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2.API/Controllers/PizzaController.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Services/IPersonService.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Infrastructure/Configurations/PersonConfiguration.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Infrastructure/Data/AppDbContext.cs" />
+        <option value="$PROJECT_DIR$/Tests.Unit/PersonServiceTests.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Services/IPersonVerifier.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Services/PersonService.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Entities/Person.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2.API/Startup.cs" />
+        <option value="$PROJECT_DIR$/Tests.Integration/BaseClient.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Infrastructure/Data/Repository.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2.API/Controllers/PersonController.cs" />
+        <option value="$PROJECT_DIR$/BANKEST2/src/CleanArchitecture.Core/Services/PersonVerifier.cs" />
+        <option value="$PROJECT_DIR$/Tests.Unit/PersonVerifierTests.cs" />
+        <option value="$PROJECT_DIR$/Tests.Integration/PersonControllerIntegrationTests.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1qtWHcJrLbQ10Ubyrd8pCr8LS7l" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3502052" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.2995896" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.UI: BANKEST2.API">
+  <component name="RunManager" selected=".NET Launch Settings Profile.UI: IIS Express">
     <configuration name="IntegrationTesting" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -388,7 +113,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/IntegrationTesting/IntegrationTesting.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Tests.Integration/Tests.Integration.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -406,7 +131,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/UnitTesting/UnitTesting.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Tests.Unit/Tests.Unit.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -456,7 +181,9 @@
       <option name="presentableId" value="Default" />
       <updated>1617899284022</updated>
       <workItem from="1617899289866" duration="52000" />
-      <workItem from="1617899359844" duration="296000" />
+      <workItem from="1617899359844" duration="6066000" />
+      <workItem from="1617905569521" duration="2939000" />
+      <workItem from="1617910522941" duration="2984000" />
     </task>
     <servers />
   </component>
@@ -481,89 +208,149 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="304" key="GridCell.Tab.0.bottom" timestamp="1617899795585">
+    <state width="1263" height="464" key="DebuggerActiveHint" timestamp="1617910413719">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.0.bottom/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795585" />
-    <state width="1493" height="304" key="GridCell.Tab.0.center" timestamp="1617899795584">
+    <state width="1263" height="464" key="DebuggerActiveHint/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617910413719" />
+    <state width="1493" height="303" key="GridCell.Tab.0.bottom" timestamp="1617915191075">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.0.center/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795584" />
-    <state width="1493" height="304" key="GridCell.Tab.0.left" timestamp="1617899795584">
+    <state width="1493" height="303" key="GridCell.Tab.0.bottom/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191075" />
+    <state width="1493" height="304" key="GridCell.Tab.0.bottom/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993627" />
+    <state width="1493" height="303" key="GridCell.Tab.0.center" timestamp="1617915191075">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.0.left/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795584" />
-    <state width="1493" height="304" key="GridCell.Tab.0.right" timestamp="1617899795585">
+    <state width="1493" height="303" key="GridCell.Tab.0.center/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191075" />
+    <state width="1493" height="304" key="GridCell.Tab.0.center/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993627" />
+    <state width="1493" height="303" key="GridCell.Tab.0.left" timestamp="1617915191074">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.0.right/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795585" />
-    <state width="1493" height="304" key="GridCell.Tab.1.bottom" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.0.left/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191074" />
+    <state width="1493" height="304" key="GridCell.Tab.0.left/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993627" />
+    <state width="1493" height="303" key="GridCell.Tab.0.right" timestamp="1617915191075">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.1.bottom/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.1.center" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.0.right/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191075" />
+    <state width="1493" height="304" key="GridCell.Tab.0.right/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993627" />
+    <state width="1493" height="303" key="GridCell.Tab.1.bottom" timestamp="1617915191076">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.1.center/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.1.left" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.1.bottom/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191076" />
+    <state width="1493" height="304" key="GridCell.Tab.1.bottom/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.1.center" timestamp="1617915191076">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.1.left/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.1.right" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.1.center/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191076" />
+    <state width="1493" height="304" key="GridCell.Tab.1.center/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.1.left" timestamp="1617915191076">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.1.right/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.2.bottom" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.1.left/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191076" />
+    <state width="1493" height="304" key="GridCell.Tab.1.left/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.1.right" timestamp="1617915191076">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.2.bottom/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.2.center" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.1.right/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191076" />
+    <state width="1493" height="304" key="GridCell.Tab.1.right/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.2.bottom" timestamp="1617915191077">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.2.center/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.2.left" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.2.bottom/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191077" />
+    <state width="1493" height="304" key="GridCell.Tab.2.bottom/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.2.center" timestamp="1617915191077">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.2.left/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.2.right" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.2.center/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191077" />
+    <state width="1493" height="304" key="GridCell.Tab.2.center/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.2.left" timestamp="1617915191076">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.2.right/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.3.bottom" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.2.left/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191076" />
+    <state width="1493" height="304" key="GridCell.Tab.2.left/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.2.right" timestamp="1617915191077">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.3.bottom/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.3.center" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.2.right/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191077" />
+    <state width="1493" height="304" key="GridCell.Tab.2.right/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.3.bottom" timestamp="1617915191078">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.3.center/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.3.left" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.3.bottom/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191078" />
+    <state width="1493" height="304" key="GridCell.Tab.3.bottom/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.3.center" timestamp="1617915191077">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.3.left/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.3.right" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.3.center/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191077" />
+    <state width="1493" height="304" key="GridCell.Tab.3.center/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.3.left" timestamp="1617915191077">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.3.right/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.4.bottom" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.3.left/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191077" />
+    <state width="1493" height="304" key="GridCell.Tab.3.left/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.3.right" timestamp="1617915191077">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.4.bottom/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.4.center" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.3.right/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191077" />
+    <state width="1493" height="304" key="GridCell.Tab.3.right/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.4.bottom" timestamp="1617915191078">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.4.center/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.4.left" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.4.bottom/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191078" />
+    <state width="1493" height="304" key="GridCell.Tab.4.bottom/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993629" />
+    <state width="1493" height="303" key="GridCell.Tab.4.center" timestamp="1617915191078">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.4.left/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
-    <state width="1493" height="304" key="GridCell.Tab.4.right" timestamp="1617899795314">
+    <state width="1493" height="303" key="GridCell.Tab.4.center/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191078" />
+    <state width="1493" height="304" key="GridCell.Tab.4.center/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.4.left" timestamp="1617915191078">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="304" key="GridCell.Tab.4.right/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899795314" />
+    <state width="1493" height="303" key="GridCell.Tab.4.left/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191078" />
+    <state width="1493" height="304" key="GridCell.Tab.4.left/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993628" />
+    <state width="1493" height="303" key="GridCell.Tab.4.right" timestamp="1617915191078">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.4.right/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617915191078" />
+    <state width="1493" height="304" key="GridCell.Tab.4.right/1920.0.1536.864/0.0.1536.864@1920.0.1536.864" timestamp="1617905993629" />
     <state x="361" y="164" key="Rider.ProjectTemplateDialog.Size" timestamp="1617899557267">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="164" key="Rider.ProjectTemplateDialog.Size/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617899557267" />
+    <state x="601" y="134" key="RiderGenerateDialog" timestamp="1617903389343">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="601" y="134" key="RiderGenerateDialog/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617903389343" />
+    <state x="449" y="165" width="637" height="534" key="find.popup" timestamp="1617910663384">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="165" width="637" height="534" key="find.popup/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617910663384" />
+    <state x="410" y="250" key="run.anything.popup" timestamp="1617910382143">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="410" y="250" key="run.anything.popup/1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1617910382143" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Tests.Integration/PersonControllerIntegrationTests.cs</url>
+          <line>34</line>
+          <properties documentPath="C:\Users\Maai Ham\maai-dev\turbo-octo-memory\RESTAPI\Tests.Integration\PersonControllerIntegrationTests.cs" initialLine="33">
+            <startOffsets>
+              <option value="837" />
+            </startOffsets>
+            <endOffsets>
+              <option value="921" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Type#System.Net.Http.HttpResponseMessage" memberName="_content" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
